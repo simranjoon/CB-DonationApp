@@ -28,4 +28,4 @@ Shruti Rana
 
 Shuchita Bhutani -ECE BTech
 
-Simran Joon
+Simran Joon - CSE B.Tech
